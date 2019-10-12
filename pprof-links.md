@@ -1,4 +1,7 @@
 ```
+Golang profiler
+https://golang.org/pkg/runtime/pprof/
+
 Wrapper for std golang profiler
 https://github.com/pkg/profile
 
