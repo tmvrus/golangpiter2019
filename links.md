@@ -21,6 +21,10 @@ https://github.com/tmvrus/golangpiter2019/tree/master/jsonperf
 map lookup benchmark
 https://github.com/tmvrus/golangpiter2019/tree/master/map-lookup
 
+some about map internals
+https://youtu.be/Tl7mi9QmLns
+https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics
+
 fasthttp
 https://github.com/tmvrus/golangpiter2019/tree/master/http/server
 https://github.com/tmvrus/golangpiter2019/tree/master/http/client
