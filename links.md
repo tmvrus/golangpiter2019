@@ -24,6 +24,8 @@ https://github.com/tmvrus/golangpiter2019/tree/master/map-lookup
 some about map internals
 https://youtu.be/Tl7mi9QmLns
 https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics
+https://developpaper.com/deep-decryption-of-maps-in-go-language/
+https://developpaper.com/deep-understanding-go-map-initialization-and-access-elements/
 
 fasthttp
 https://github.com/tmvrus/golangpiter2019/tree/master/http/server
